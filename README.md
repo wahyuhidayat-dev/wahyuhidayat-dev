@@ -13,4 +13,3 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=salvadordeveloper)
