@@ -15,9 +15,9 @@
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuhidayat-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Wahyu GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuhidayat-dev)](https://github.com/wahyuhidayat-dev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuhidayat-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuhidayat-dev&layout=compact)](https://github.com/wahyuhidayat-dev/github-readme-stats)
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
