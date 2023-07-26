@@ -12,8 +12,8 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&&logo=Flutter&logoColor=white)
 
+![Wahyu Hidayat GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyuhidayat-dev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuhidayat-dev&layout=compact)](https://github.com/wahyuhidayat-dev/github-readme-stats)
 
 
 
