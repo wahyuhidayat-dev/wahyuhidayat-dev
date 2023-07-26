@@ -16,5 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuhidayat-dev\&layout=compact&theme=radical)
 
+![Wahyu Hidayat wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical)
 
 
